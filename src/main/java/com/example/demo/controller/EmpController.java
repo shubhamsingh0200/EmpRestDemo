@@ -21,6 +21,8 @@ public class EmpController {
 		emps.add(new Emp(2,"Rahul"));
 		emps.add(new Emp(3,"Vikas"));
 		emps.add(new Emp(4,"Shubham"));
+		emps.add(new Emp(5,"Yash"));
+
 
 		return emps;
 		
